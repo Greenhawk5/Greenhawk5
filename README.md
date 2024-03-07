@@ -5,6 +5,7 @@ Hello, I'm Ali Faniani 👋
   I bring a blend of cultural richness and technical acumen to the table.
   .
   .
+  
 🟢About Me
 
   🔭 I’m currently focusing on mastering the art of front-end development.
@@ -20,6 +21,7 @@ Hello, I'm Ali Faniani 👋
   🎂 Born on January 13, 2004.
   .
   .
+  
 🟩Get in Touch
 
   Feel free to reach out to me through the following channels:
@@ -35,4 +37,5 @@ Hello, I'm Ali Faniani 👋
   .
   .
   .
+  
 🟢Let's connect and build something amazing together!
