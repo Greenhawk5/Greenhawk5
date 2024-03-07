@@ -3,8 +3,9 @@ Hello, I'm Ali Faniani 👋
   I'm a passionate computer science student at Shahid Chamran University of Ahvaz, Iran, with a fervent interest in all things programming.
   Originally hailing from the picturesque city of Jahrom, nestled in the heart of Fars province near Shiraz,
   I bring a blend of cultural richness and technical acumen to the table.
+  
 
-🔴About Me
+🟢About Me
 
   🔭 I’m currently focusing on mastering the art of front-end development.
   
@@ -17,8 +18,9 @@ Hello, I'm Ali Faniani 👋
   💪 When I'm not immersed in the world of programming, you can find me passionately pursuing my other passion: bodybuilding.
   
   🎂 Born on January 13, 2004.
+  
 
-🔴Get in Touch
+🟩Get in Touch
 
   Feel free to reach out to me through the following channels:
 
@@ -32,4 +34,5 @@ Hello, I'm Ali Faniani 👋
   🐦 Twitter: -
 
 
-🔴Let's connect and build something amazing together!
+
+🟢Let's connect and build something amazing together!
