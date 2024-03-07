@@ -1,8 +1,8 @@
 Hello, I'm Ali Faniani 👋
 
-    I'm a passionate computer science student at Shahid Chamran University of Ahvaz, Iran, with a fervent interest in all things programming.
-    Originally hailing from the picturesque city of Jahrom, nestled in the heart of Fars province near Shiraz,
-    I bring a blend of cultural richness and technical acumen to the table.
+I'm a passionate computer science student at Shahid Chamran University of Ahvaz, Iran, with a fervent interest in all things programming.
+Originally hailing from the picturesque city of Jahrom, nestled in the heart of Fars province near Shiraz,
+I bring a blend of cultural richness and technical acumen to the table.
 
 🔴About Me
 
