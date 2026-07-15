@@ -21,7 +21,7 @@ Currently, my main interests are Artificial Intelligence, Computer Vision, Backe
 - 🤖 Interested in:
   **Machine Learning, Neural Networks, Computer Vision, and AI Engineering**
 
-- 🎨 The name **"Greenhawk"** has been my personal nickname since childhood, inspired by my love for the color green and the majestic hawk.
+- 🎨 The name **"Greenhawk"** has been my personal nickname since childhood, inspired by my love for the color green and the majestic Jet the Hawk.
 
 - 💪 Outside the world of programming, I enjoy bodybuilding and fitness.
 
