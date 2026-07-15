@@ -1,4 +1,4 @@
-# Hello, I'm Ali Faniani 👋
+# Hello, I'm Ali 👋
 
 🎓 Computer Science Student  
 🤖 Exploring Artificial Intelligence, Deep Learning & Software Development
