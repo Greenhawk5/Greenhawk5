@@ -1,41 +1,78 @@
-Hello, I'm Ali Faniani 👋
+# Hello, I'm Ali Faniani 👋
 
-  I'm a passionate computer science student at Shahid Chamran University of Ahvaz, Iran, with a fervent interest in all things programming.
-  Originally hailing from the picturesque city of Jahrom, nestled in the heart of Fars province near Shiraz,
-  I bring a blend of cultural richness and technical acumen to the table.
-  
-  
-  
-🔴About Me
+🎓 Computer Science Student  
+🤖 Exploring Artificial Intelligence, Deep Learning & Software Development
 
-  🔭 I’m currently focusing on mastering the art of front-end development.
-  
-  🌱 I’m enthusiastic about learning and exploring new technologies.
-  
-  💻 My favorite languages include Python, HTML, and CSS.
-  
-  🎨 The name "Greenhawk" has been my moniker of choice since childhood, inspired by my love for both the color green and the majestic hawk.
-  
-  💪 When I'm not immersed in the world of programming, you can find me passionately pursuing my other passion: bodybuilding.
-  
-  🎂 Born on January 13, 2004.
-  
-  
-  
-🟥Get in Touch
+I'm a Computer Science student at Shahid Chamran University of Ahvaz, Iran, passionate about building practical software solutions and exploring emerging technologies.
 
-  Feel free to reach out to me through the following channels:
+Currently, my main interests are Artificial Intelligence, Computer Vision, Backend Development, and creating AI-powered applications.
+
+---
+
+## 🔴 About Me
+
+- 🔭 Currently working on AI-based applications and improving my software development skills.
+
+- 🌱 Continuously learning about Deep Learning, Computer Vision, Backend systems, and modern technologies.
+
+- 💻 Programming languages I enjoy working with:
+  **Python, JavaScript, C++, HTML & CSS**
+
+- 🤖 Interested in:
+  **Machine Learning, Neural Networks, Computer Vision, and AI Engineering**
+
+- 🎨 The name **"Greenhawk"** has been my personal nickname since childhood, inspired by my love for the color green and the majestic hawk.
+
+- 💪 Outside the world of programming, I enjoy bodybuilding and fitness.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Python • JavaScript • C++ • SQL
+
+### AI / Machine Learning
+PyTorch • TensorFlow • OpenCV • Scikit-learn
+
+### Web Development
+HTML • CSS • JavaScript • FastAPI
+
+### Tools & Platforms
+Git • GitHub • Docker • Linux • Hugging Face
+
+---
+
+## 🚀 Featured Projects
+
+### 🎨 AI Image Colorization System
+
+A deep learning based application that restores colors in black and white images using modern AI models.
+
+Technologies:
+- Python
+- Deep Learning
+- Computer Vision
+- CNN & GAN Models
+- Hugging Face APIs
 
 
-  📧 Email: Ali.faniani@gmaiil.com
-  
-  ➤ Telegram: @Greenhawk5
-  
-  💼 LinkedIn: -
-  🌐 Personal Website: -
-  🐦 Twitter: -
-  
-  
-  
-  
-🔴Let's connect and build something amazing together!
+### 🧠 Machine Learning Projects
+
+A collection of AI and machine learning experiments including:
+- Neural Networks
+- Classification Algorithms
+- Feature Selection Methods
+
+---
+
+## 📫 Get in Touch
+
+📧 Email: Ali.faniani@gmail.com
+
+➤ Telegram: @Greenhawk5
+
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
