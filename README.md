@@ -21,7 +21,7 @@ Currently, my main interests are Artificial Intelligence, Computer Vision, Backe
 - 🤖 Interested in:
   **Machine Learning, Neural Networks, Computer Vision, and AI Engineering**
 
-- 🎨 The name **"Greenhawk"** has been my personal nickname since childhood, inspired by my love for the color green and the majestic Jet the Hawk.
+- 🦅 The name **"Greenhawk"** has been my personal nickname since childhood, inspired by my love for the color green and the majestic Jet the Hawk.
 
 - 💪 Outside the world of programming, I enjoy bodybuilding and fitness.
 
@@ -30,16 +30,16 @@ Currently, my main interests are Artificial Intelligence, Computer Vision, Backe
 ## 🛠️ Tech Stack
 
 ### Languages
-Python • JavaScript • C++ • SQL
+Python • JavaScript • Java • C
 
 ### AI / Machine Learning
 PyTorch • TensorFlow • OpenCV • Scikit-learn
 
 ### Web Development
-HTML • CSS • JavaScript • FastAPI
+HTML • CSS • JavaScript • TypeScript • FastAPI
 
 ### Tools & Platforms
-Git • GitHub • Docker • Linux • Hugging Face
+GitHub • Linux • Hugging Face
 
 ---
 
