@@ -1,198 +1,78 @@
-# 🦅 Hello, I'm Ali (Greenhawk)
+# Hello, I'm Ali 👋
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Deep+Learning+%7C+Computer+Vision;Building+Intelligent+Software+Solutions;Welcome+to+Greenhawk's+Profile+%F0%9F%A6%85" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=Greenhawk5&label=Profile%20Views&color=00ff88&style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/github/followers/Greenhawk5?label=Followers&style=for-the-badge&color=00ff88" />`{=html}
-```{=html}
-</p>
-```
+🎓 Computer Science Student  
+🤖 Exploring Artificial Intelligence, Deep Learning & Software Development
 
-------------------------------------------------------------------------
+I'm a Computer Science student at Shahid Chamran University of Ahvaz, Iran, passionate about building practical software solutions and exploring emerging technologies.
 
-## 🧠 About Me
+Currently, my main interests are Artificial Intelligence, Computer Vision, Backend Development, and creating AI-powered applications.
 
-🎓 Computer Science Student at Shahid Chamran University of Ahvaz
+---
 
-🤖 Passionate about Artificial Intelligence, Deep Learning, Computer
-Vision and Backend Development.
+## 🔴 About Me
 
-🦅 **Greenhawk** is my personal identity --- combining creativity,
-technology and the mindset of building intelligent systems.
+- 🔭 Currently working on AI-based applications and improving my software development skills.
 
-Currently focused on:
+- 🌱 Continuously learning about Deep Learning, Computer Vision, Backend systems, and modern technologies.
 
--   🧠 Deep Learning & Neural Networks
--   👁️ Computer Vision Applications
--   ⚙️ Backend Engineering
--   🚀 AI-powered products
+- 💻 Programming languages I enjoy working with:
+  **Python, JavaScript, C++, HTML & CSS**
 
-------------------------------------------------------------------------
+- 🤖 Interested in:
+  **Machine Learning, Neural Networks, Computer Vision, and AI Engineering**
 
-## 🚀 What I'm Building
+- 🦅 The name **"Greenhawk"** has been my personal nickname since childhood, inspired by my love for the color green and the majestic Jet the Hawk.
 
-``` text
-🟢 AI Applications
-🟢 Computer Vision Systems
-🟢 Intelligent Automation Tools
-🟢 Backend Services & APIs
-```
+- 💪 Outside the world of programming, I enjoy bodybuilding and fitness.
 
-My goal is to transform ideas into practical software solutions powered
-by modern technologies.
+---
 
-------------------------------------------------------------------------
+## 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
+### Languages
+Python • JavaScript • Java • C
 
-## Languages
+### AI / Machine Learning
+PyTorch • TensorFlow • OpenCV • Scikit-learn
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,html,css" />`{=html}
-```{=html}
-</p>
-```
-## AI / Machine Learning
+### Web Development
+HTML • CSS • JavaScript • TypeScript • FastAPI
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />`{=html}
-```{=html}
-</p>
-```
--   PyTorch
--   TensorFlow
--   OpenCV
--   Scikit-learn
--   Neural Networks
--   CNN / GAN Models
+### Tools & Platforms
+GitHub • Linux • Hugging Face
 
-## Backend & Tools
+---
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,github,vscode" />`{=html}
-```{=html}
-</p>
-```
+## 🚀 Featured Projects
 
-------------------------------------------------------------------------
+### 🎨 AI Image Colorization System
 
-# 🌟 Featured Projects
+A deep learning based application that restores colors in black and white images using modern AI models.
 
-## 🎨 AI Image Colorization System
+Technologies:
+- Python
+- Deep Learning
+- Computer Vision
+- CNN & GAN Models
+- Hugging Face APIs
 
-A deep learning based application that restores colors in
-black-and-white images.
 
-**Technologies:**
+### 🧠 Machine Learning Projects
 
--   Python
--   Deep Learning
--   Computer Vision
--   CNN & GAN Models
--   Hugging Face APIs
+A collection of AI and machine learning experiments including:
+- Neural Networks
+- Classification Algorithms
+- Feature Selection Methods
 
-Features:
+---
 
-✅ AI-powered image restoration\
-✅ Multiple colorization approaches\
-✅ Web-based interface\
-✅ API integration
+## 📫 Get in Touch
 
-------------------------------------------------------------------------
+📧 Email: Ali.faniani@gmail.com
 
-## 🤖 Machine Learning Experiments
+➤ Telegram: @Greenhawk5
 
-A collection of AI experiments including:
 
--   Neural Networks
--   Classification Algorithms
--   Feature Selection Methods
--   Data Analysis Projects
+---
 
-------------------------------------------------------------------------
-
-# 📊 GitHub Analytics
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=Greenhawk5&show_icons=true&theme=tokyonight&hide_border=true" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greenhawk5&layout=compact&theme=tokyonight&hide_border=true" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Greenhawk5&theme=tokyonight&hide_border=true" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-# 🏆 Development Philosophy
-
-> "Build. Learn. Improve. Repeat."
-
-I believe every project is an opportunity to learn something new and
-create something meaningful.
-
-------------------------------------------------------------------------
-
-# 📫 Connect With Me
-
-```{=html}
-<p>
-```
-`<a href="mailto:Ali.fanian@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-Contact-00FF88?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
-`</a>`{=html}
-
-`<a href="https://github.com/Greenhawk5">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Greenhawk-black?style=for-the-badge&logo=github"/>`{=html}
-`</a>`{=html}
-
-`<a href="https://t.me/Greenhawk5">`{=html}
-`<img src="https://img.shields.io/badge/Telegram-@Greenhawk5-blue?style=for-the-badge&logo=telegram"/>`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-`<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-⭐ Thanks for visiting my profile!
-```{=html}
-</p>
-```
+⭐ Feel free to explore my repositories and connect with me!
