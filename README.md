@@ -176,7 +176,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> Loading today's thought...
+> "Don't resist. Don't insist.Just Move over.Its's a divine takeover."
+
+> — Maisie A. Smikle
 
 <!-- QUOTE_END -->
 
