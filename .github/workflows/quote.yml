@@ -1,0 +1,46 @@
+name: Update Daily Quote
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+
+jobs:
+  update-quote:
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+
+      - name: Get Quote
+        run: |
+          curl \
+          -H "X-Api-Key: ${{ secrets.API_NINJAS_KEY }}" \
+          https://api.api-ninjas.com/v2/quoteoftheday \
+          -o quote.json
+
+
+      - name: Update README
+        run: |
+          python update_quote.py
+
+
+      - name: Commit changes
+        run: |
+
+          git config --global user.name "github-actions"
+
+          git config --global user.email "actions@github.com"
+
+          git add README.md
+
+          git commit -m "Update daily quote" || exit 0
+
+          git push
