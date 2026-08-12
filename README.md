@@ -89,14 +89,13 @@ Deep Learning • Computer Vision • Neural Networks • CNN • GAN Models
 REST APIs • AI Integration • Web Applications
 </p>
 
-<img align="right" src="https://github.com/Greenhawk5/Greenhawk5/blob/main/assets/Jet%20The%20Hawk.gif?raw=true" width="150">
 
 ### ⚙️ Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,cloudflare&theme=dark&perline=6" />
 </p>
-
+<img align="right" src="https://github.com/Greenhawk5/Greenhawk5/blob/main/assets/Jet%20The%20Hawk.gif?raw=true" width="100">
 
 ### 🤗 AI Platforms
 
@@ -104,6 +103,8 @@ REST APIs • AI Integration • Web Applications
 Hugging Face
 </p>
 
+&nbsp;
+<p>&nbsp;</p>
 
 ---
 
