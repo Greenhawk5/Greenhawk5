@@ -163,11 +163,40 @@ Repository →
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/Greenhawk5/HawkBucks-Bot">
+<img src="https://github.com/Greenhawk5/HawkBucks-Bot/blob/main/assets/banner.png"
+width="100%"
+height="auto"/>
+</a>
+
+<h3>🤖 HawkBucks Bot</h3>
+
+<p>
+A standalone Telegram bot that provides Fortnite Save The World V-Bucks mission information.
+</p>
+
+<p>
+🐍 Python • 🤖 Telegram Bot • ⚙️ Automation
+</p>
+
+<a href="https://github.com/Greenhawk5/HawkBucks-Bot">
+Repository →
+</a>
+
+</td>
+
+</tr>
 </table>
 
 ## 🧠 Other AI Experiments
 
 Exploring:
+
 - Neural Networks
 - Classification Algorithms
 - Feature Selection
@@ -193,7 +222,7 @@ Exploring:
   <a href="mailto:Ali.faniani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;<a href="https://github.com/Greenhawk5">
-    <img src="https://img.shields.io/badge/GitHub-Greenhawk-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Ali Faniani-181717?style=for-the-badge&logo=github"/>
   </a>&nbsp;<a href="https://t.me/Greenhawk5">
     <img src="https://img.shields.io/badge/Telegram-@Greenhawk5-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
