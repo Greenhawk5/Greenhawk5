@@ -176,9 +176,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Don't resist. Don't insist.Just Move over.Its's a divine takeover."
+> "Everything you do matters. Every time you share and care, the light multiplies."
 
-> — Maisie A. Smikle
+> — Amy Leigh Mercree
 
 <!-- QUOTE_END -->
 
