@@ -176,7 +176,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> Loading today's thought...
+> "Everything you do matters. Every time you share and care, the light multiplies."
+
+> — Amy Leigh Mercree
 
 <!-- QUOTE_END -->
 
