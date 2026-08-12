@@ -22,20 +22,20 @@ I enjoy transforming ideas into intelligent systems through AI, software enginee
 
 
 <p align="center">
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/Greenhawk5/Greenhawk5" />
+  <a href="https://github.com/Greenhawk5">
+    <img src="https://komarev.com/ghpvc/?username=Greenhawk5&label=Views&color=57C700&labelColor=555555&style=plastic" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/Greenhawk5" />
+  <a href="https://github.com/Greenhawk5">
+    <img src="https://badges.pufler.dev/years/Greenhawk5?style=plastic&color=57C700&labelColor=555555&label=Years" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/Greenhawk5" />
+  <a href="https://github.com/Greenhawk5">
+    <img src="https://badges.pufler.dev/repos/Greenhawk5?style=plastic&color=57C700&labelColor=555555&label=Repos" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/Greenhawk5" />
+  <a href="https://github.com/Greenhawk5">
+    <img src="https://badges.pufler.dev/gists/Greenhawk5?style=plastic&color=57C700&labelColor=555555&label=Gists" />
   </a>
 </p>
 
