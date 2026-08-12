@@ -174,7 +174,7 @@ Exploring:
 
 ---
 
-## 🦅 Greenhawk's Daily Thought
+## <img src="https://github.com/Greenhawk5/Greenhawk5/blob/main/assets/hawk.gif?raw=true" /> Greenhawk's Daily Thought
 
 <!-- QUOTE_START -->
 
