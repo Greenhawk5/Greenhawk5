@@ -208,9 +208,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Everything you do matters. Every time you share and care, the light multiplies."
+> "We have a saying in the desert: It is better to see the truth, than to imagine it."
 
-> — Amy Leigh Mercree
+> — Amber Jacobs
 
 <!-- QUOTE_END -->
 
