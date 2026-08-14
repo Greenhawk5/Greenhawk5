@@ -208,9 +208,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "We have a saying in the desert: It is better to see the truth, than to imagine it."
+> "Spend time with people who enrich your mind, nourish your heart, and illuminate your soul."
 
-> — Amber Jacobs
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
