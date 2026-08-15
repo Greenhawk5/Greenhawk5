@@ -208,7 +208,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Spend time with people who enrich your mind, nourish your heart, and illuminate your soul."
+> "Whether your glass is half full or half empty, hope can fill it up."
 
 > — Matshona Dhliwayo
 
