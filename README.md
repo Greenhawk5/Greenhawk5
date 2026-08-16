@@ -208,9 +208,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Whether your glass is half full or half empty, hope can fill it up."
+> "Choosing to unconditionally love others is a path to deep joy."
 
-> — Matshona Dhliwayo
+> — Amy Leigh Mercree
 
 <!-- QUOTE_END -->
 
