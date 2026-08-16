@@ -64,7 +64,7 @@ I enjoy transforming ideas into intelligent systems through AI, software enginee
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark&perline=7" />
 </p>
 
 
@@ -74,9 +74,6 @@ I enjoy transforming ideas into intelligent systems through AI, software enginee
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark&perline=4" />
 </p>
 
-<p align="left">
-Deep Learning • Computer Vision • Neural Networks • CNN • GAN Models
-</p>
 
 
 ### 🌐 Backend & Web Development
@@ -221,8 +218,10 @@ Exploring:
 <p align="left">
   <a href="mailto:Ali.faniani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;<a href="https://www.linkedin.com/in/ali-faniani">
+    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Faniani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;<a href="https://github.com/Greenhawk5">
-    <img src="https://img.shields.io/badge/GitHub-Ali Faniani-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Ali%20Faniani-181717?style=for-the-badge&logo=github"/>
   </a>&nbsp;<a href="https://t.me/Greenhawk5">
     <img src="https://img.shields.io/badge/Telegram-@Greenhawk5-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
