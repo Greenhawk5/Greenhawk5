@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Choosing to unconditionally love others is a path to deep joy."
+> "Kindness alchemizes the soul, and a sweeter, richer life is the delicious result."
 
 > — Amy Leigh Mercree
 
