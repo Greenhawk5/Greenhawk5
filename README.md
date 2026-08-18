@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Kindness alchemizes the soul, and a sweeter, richer life is the delicious result."
+> "Compassion is the magic ingredient to an amazing life."
 
 > — Amy Leigh Mercree
 
