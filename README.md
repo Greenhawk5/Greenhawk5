@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Compassion is the magic ingredient to an amazing life."
+> "If you knew today was your last day here, how would you share your love with the world?"
 
 > — Amy Leigh Mercree
 
