@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "If you knew today was your last day here, how would you share your love with the world?"
+> "Seeking external validation brings disappointment. Validate yourself from within to find true happiness."
 
 > — Amy Leigh Mercree
 
