@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Seeking external validation brings disappointment. Validate yourself from within to find true happiness."
+> "Find the light within you through meditation and introspection, and you will illuminate your life from within."
 
 > — Amy Leigh Mercree
 
