@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Find the light within you through meditation and introspection, and you will illuminate your life from within."
+> "The team that keeps winning is not the most talented but the most hard-working."
 
-> — Amy Leigh Mercree
+> — Zoltan Andrejkovics
 
 <!-- QUOTE_END -->
 
