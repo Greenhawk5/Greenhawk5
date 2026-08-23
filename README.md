@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The team that keeps winning is not the most talented but the most hard-working."
+> "Let go of rejections and focus on self-reflection. For it is within that you will find the light you seek."
 
-> — Zoltan Andrejkovics
+> — Amy Leigh Mercree
 
 <!-- QUOTE_END -->
 
