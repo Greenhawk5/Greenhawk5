@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Let go of rejections and focus on self-reflection. For it is within that you will find the light you seek."
+> "Forgiveness happens every time we surrender our attachment to pain."
 
 > — Amy Leigh Mercree
 
