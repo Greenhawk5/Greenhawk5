@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Forgiveness happens every time we surrender our attachment to pain."
+> "You are a dynamo, and every day offers a choice to create a life you love."
 
 > — Amy Leigh Mercree
 
