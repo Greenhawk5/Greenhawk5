@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "You are a dynamo, and every day offers a choice to create a life you love."
+> "Live to give and be rich of heart and laughter."
 
 > — Amy Leigh Mercree
 
