@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Live to give and be rich of heart and laughter."
+> "Compassion is given freely with no expectation of reward."
 
 > — Amy Leigh Mercree
 
