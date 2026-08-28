@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Compassion is given freely with no expectation of reward."
+> "Start a compassion movement in your community by being a living example of kindness."
 
 > — Amy Leigh Mercree
 
