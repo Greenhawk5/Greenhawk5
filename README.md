@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Start a compassion movement in your community by being a living example of kindness."
+> "The beauty of compassion is free, and everyone is welcome to it."
 
 > — Amy Leigh Mercree
 
