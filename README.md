@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "If it's the other guy's fault, you can't fix it. Don't blame other people for your problems. That gives them all the power. Own up to your mistakes."
+> "Every failure if you let it is an opportunity to reinvent yourself and move forward."
 
-> — Ruthi Postow Birch
+> — Jerry Gladstone
 
 <!-- QUOTE_END -->
 
