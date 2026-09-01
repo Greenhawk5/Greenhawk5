@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Every failure if you let it is an opportunity to reinvent yourself and move forward."
+> "Humility is not an attribute but a key to development."
 
-> — Jerry Gladstone
+> — Zoltan Andrejkovics
 
 <!-- QUOTE_END -->
 
