@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Humility is not an attribute but a key to development."
+> "Being compassionate can be an exciting exercise of embracing life if you let it be."
 
-> — Zoltan Andrejkovics
+> — Amy Leigh Mercree
 
 <!-- QUOTE_END -->
 
