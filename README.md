@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Being compassionate can be an exciting exercise of embracing life if you let it be."
+> "You have the power to choose compassion in each moment."
 
 > — Amy Leigh Mercree
 
