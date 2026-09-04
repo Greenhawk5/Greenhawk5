@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "You have the power to choose compassion in each moment."
+> "Take a leap of faith on your dreams, not for me and not for the society, just for yourself."
 
-> — Amy Leigh Mercree
+> — Vinay Garg
 
 <!-- QUOTE_END -->
 
