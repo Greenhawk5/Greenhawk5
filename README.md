@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Take a leap of faith on your dreams, not for me and not for the society, just for yourself."
+> "Find the soul and love in every situation you encounter and find true happiness."
 
-> — Vinay Garg
+> — Amy Leigh Mercree
 
 <!-- QUOTE_END -->
 
