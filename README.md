@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Find the soul and love in every situation you encounter and find true happiness."
+> "A diamond only truly appreciates pressure the day it begins to shine."
 
-> — Amy Leigh Mercree
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
