@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "A diamond only truly appreciates pressure the day it begins to shine."
+> "Talk to yourself like a cherished friend. Treat yourself with love and care. You are perfect, just as you are."
 
-> — Matshona Dhliwayo
+> — Amy Leigh Mercree
 
 <!-- QUOTE_END -->
 
