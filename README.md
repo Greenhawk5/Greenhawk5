@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Talk to yourself like a cherished friend. Treat yourself with love and care. You are perfect, just as you are."
+> "Anger has great strength, but no brains. Greed has a great appetite, but no heart.Pride has a great spirit, but no soul."
 
-> — Amy Leigh Mercree
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
