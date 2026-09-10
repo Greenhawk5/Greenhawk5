@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Your inner critic is simply a part of you that needs more self-love."
+> "Let the blue of the sky and ocean take your blue away when you feel blue"
 
-> — Amy Leigh Mercree
+> — Munia Khan
 
 <!-- QUOTE_END -->
 
