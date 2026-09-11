@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Let the blue of the sky and ocean take your blue away when you feel blue"
+> "The waves of changes propel advancement."
 
-> — Munia Khan
+> — Zoltan Andrejkovics
 
 <!-- QUOTE_END -->
 
