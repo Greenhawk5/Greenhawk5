@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The waves of changes propel advancement."
+> "Blessed are the misfits who make their own rules and stick to them for they shall inherit peace of mind"
 
-> — Zoltan Andrejkovics
+> — Chikamso C. Efobi
 
 <!-- QUOTE_END -->
 
