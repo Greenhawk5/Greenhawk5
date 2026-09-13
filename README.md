@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Blessed are the misfits who make their own rules and stick to them for they shall inherit peace of mind"
+> "You are trapped by nothing more than a poor attitude"
 
-> — Chikamso C. Efobi
+> — Sid Mittra
 
 <!-- QUOTE_END -->
 
