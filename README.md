@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "You are trapped by nothing more than a poor attitude"
+> "Thinking of only the worse of yourself will eventually destroy you"
 
 > — Sid Mittra
 
