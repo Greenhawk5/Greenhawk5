@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Thinking of only the worse of yourself will eventually destroy you"
+> "Stop feeling sorry for yourself and get to work, your future lies ahead of you"
 
 > — Sid Mittra
 
