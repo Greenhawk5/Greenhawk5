@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Stop feeling sorry for yourself and get to work, your future lies ahead of you"
+> "We are made of stars. So, what's impossible?"
 
-> — Sid Mittra
+> — Sear Greyson
 
 <!-- QUOTE_END -->
 
