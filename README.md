@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "We are made of stars. So, what's impossible?"
+> "Freedom is found within, in the shape of our laughter and the way we love, in the truths that we live by and the stories we become"
 
-> — Sear Greyson
+> — Beth Kempton
 
 <!-- QUOTE_END -->
 
