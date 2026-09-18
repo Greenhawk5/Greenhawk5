@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Freedom is found within, in the shape of our laughter and the way we love, in the truths that we live by and the stories we become"
+> "Freedom wanders in the landscape of the mind, and nourishes the deepest yearnings of the soul."
 
 > — Beth Kempton
 
