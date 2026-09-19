@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Freedom wanders in the landscape of the mind, and nourishes the deepest yearnings of the soul."
+> "Feeling free is a choice that is ours for the making, ours for the taking at any time, at any age."
 
 > — Beth Kempton
 
