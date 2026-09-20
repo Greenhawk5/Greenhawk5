@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Feeling free is a choice that is ours for the making, ours for the taking at any time, at any age."
+> "Only what is below you tries to pull you down."
 
-> — Beth Kempton
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
