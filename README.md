@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Only what is below you tries to pull you down."
+> "Masters today, were Starters Yesterday, so begin now."
 
-> — Matshona Dhliwayo
+> — Bernard Kelvin Clive
 
 <!-- QUOTE_END -->
 
