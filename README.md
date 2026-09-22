@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Masters today, were Starters Yesterday, so begin now."
+> "Happiness is, when it comes to the understanding of its meaning, to sometimes be unhappy."
 
-> — Bernard Kelvin Clive
+> — Hasse Jerner
 
 <!-- QUOTE_END -->
 
