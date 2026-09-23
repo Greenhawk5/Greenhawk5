@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Happiness is, when it comes to the understanding of its meaning, to sometimes be unhappy."
+> "Bad things happen in life, but we must learn to deal with them and move on"
 
-> — Hasse Jerner
+> — Sid Mittra
 
 <!-- QUOTE_END -->
 
