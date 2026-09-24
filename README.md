@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Bad things happen in life, but we must learn to deal with them and move on"
+> "God sometimes uses ugly vessels to carry beautiful things."
 
-> — Sid Mittra
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
