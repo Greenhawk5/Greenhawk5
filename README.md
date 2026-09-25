@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "God sometimes uses ugly vessels to carry beautiful things."
+> "Remember it is good to build and bad to destroy"
 
-> — Matshona Dhliwayo
+> — Sid Mittra
 
 <!-- QUOTE_END -->
 
