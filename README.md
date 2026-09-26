@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Remember it is good to build and bad to destroy"
+> "Sometimes the ultimate act of self-compassion is turning off your phone and looking someone in the eye."
 
-> — Sid Mittra
+> — Amy Leigh Mercree
 
 <!-- QUOTE_END -->
 
