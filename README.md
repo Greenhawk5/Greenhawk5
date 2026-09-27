@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Sometimes the ultimate act of self-compassion is turning off your phone and looking someone in the eye."
+> "Slowing down your thoughts on a regular basis is the path to consistent peace of mind."
 
 > — Amy Leigh Mercree
 
