@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Slowing down your thoughts on a regular basis is the path to consistent peace of mind."
+> "Relax your heart and let go into the infinite ocean of love within you."
 
 > — Amy Leigh Mercree
 
