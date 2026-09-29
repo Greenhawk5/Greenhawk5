@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Relax your heart and let go into the infinite ocean of love within you."
+> "The love you share with yourself pays immediate and lifelong dividends of peace."
 
 > — Amy Leigh Mercree
 
