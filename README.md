@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The love you share with yourself pays immediate and lifelong dividends of peace."
+> "The mind dies, but its thoughts live on. The heart perishes, but its experiences live on. The body expires, but its spirit lives on."
 
-> — Amy Leigh Mercree
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
