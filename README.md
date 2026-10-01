@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The mind dies, but its thoughts live on. The heart perishes, but its experiences live on. The body expires, but its spirit lives on."
+> "Speak to yourself with compassion on the inside and you will radiate peace on the outside."
 
-> — Matshona Dhliwayo
+> — Amy Leigh Mercree
 
 <!-- QUOTE_END -->
 
