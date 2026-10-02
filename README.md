@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Speak to yourself with compassion on the inside and you will radiate peace on the outside."
+> "When you look into the mirror, you can’t even see your heart; but when God looks at your shadow, He sees your soul."
 
-> — Amy Leigh Mercree
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
