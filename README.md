@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "When you look into the mirror, you can’t even see your heart; but when God looks at your shadow, He sees your soul."
+> "Peak performance happens when we feel loved and supported from within."
 
-> — Matshona Dhliwayo
+> — Amy Leigh Mercree
 
 <!-- QUOTE_END -->
 
