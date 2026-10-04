@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Peak performance happens when we feel loved and supported from within."
+> "Defeat the demons of self-doubt and self-loathing by being your own hero/heroine of self-compassion."
 
 > — Amy Leigh Mercree
 
