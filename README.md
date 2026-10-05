@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Defeat the demons of self-doubt and self-loathing by being your own hero/heroine of self-compassion."
+> "The world is already full of critics; to stand out, be an encourager."
 
-> — Amy Leigh Mercree
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
