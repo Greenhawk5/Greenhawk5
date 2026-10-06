@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The world is already full of critics; to stand out, be an encourager."
+> "Excuses, we all have them, but successful choose not to use them"
 
-> — Matshona Dhliwayo
+> — Kyle Vidrine
 
 <!-- QUOTE_END -->
 
