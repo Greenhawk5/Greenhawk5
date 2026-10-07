@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Excuses, we all have them, but successful choose not to use them"
+> "The elevator to success is out of order, as you climb; you re-arrange to suit your own call."
 
-> — Kyle Vidrine
+> — ANIKOR Daniel
 
 <!-- QUOTE_END -->
 
