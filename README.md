@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The elevator to success is out of order, as you climb; you re-arrange to suit your own call."
+> "In every set of circumstances, we get to create our own experience."
 
-> — ANIKOR Daniel
+> — Tina Hallis
 
 <!-- QUOTE_END -->
 
