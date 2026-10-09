@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "In every set of circumstances, we get to create our own experience."
+> "We don't experience the world. We experience our thoughts and think that's the world."
 
 > — Tina Hallis
 
