@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "We don't experience the world. We experience our thoughts and think that's the world."
+> "To be fearless, you must simply fear less."
 
-> — Tina Hallis
+> — TemitOpe Ibrahim
 
 <!-- QUOTE_END -->
 
