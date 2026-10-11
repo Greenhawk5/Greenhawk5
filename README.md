@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "To be fearless, you must simply fear less."
+> "Within all beings resides the unlimited power of the creative soul."
 
-> — TemitOpe Ibrahim
+> — Kate Corsen
 
 <!-- QUOTE_END -->
 
