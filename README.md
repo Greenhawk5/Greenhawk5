@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Within all beings resides the unlimited power of the creative soul."
+> "Temporary friends sometimes bring us to permanent blessings."
 
-> — Kate Corsen
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
