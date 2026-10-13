@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Temporary friends sometimes bring us to permanent blessings."
+> "The sun consumes even itself to give light to a dark world"
 
-> — Matshona Dhliwayo
+> — do likewise.
 
 <!-- QUOTE_END -->
 
