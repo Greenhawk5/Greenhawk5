@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The sun consumes even itself to give light to a dark world"
+> "Never live in fear or regret, live in lessons learned that make you better and keep going forward"
 
-> — do likewise.
+> — Kyle Vidrine
 
 <!-- QUOTE_END -->
 
