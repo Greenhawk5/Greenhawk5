@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Never live in fear or regret, live in lessons learned that make you better and keep going forward"
+> "The only way to become successful at anything is by overcoming and not giving up"
 
 > — Kyle Vidrine
 
