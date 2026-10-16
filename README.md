@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The only way to become successful at anything is by overcoming and not giving up"
+> "Adversities define what you're made of. Success is you're reward for overcoming them"
 
 > — Kyle Vidrine
 
