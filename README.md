@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Adversities define what you're made of. Success is you're reward for overcoming them"
+> "It doesn't matter if you have to kick, crawl, scratch, hop, limp, hobble, or be carried to the finish line. Just make sure you finish you race."
 
 > — Kyle Vidrine
 
