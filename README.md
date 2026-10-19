@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "What are you working towards everyday besides death?"
+> "If you can't finish you can't succeed. You have to become a finisher."
 
-> — Tyconis D. Allison Ty
+> — Kyle Vidrine
 
 <!-- QUOTE_END -->
 
