@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "If you can't finish you can't succeed. You have to become a finisher."
+> "Goals want to realize themselves."
 
-> — Kyle Vidrine
+> — Zoltan Andrejkovics
 
 <!-- QUOTE_END -->
 
