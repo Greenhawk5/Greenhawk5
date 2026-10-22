@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Goals want to realize themselves."
+> "If you see a shot, shoot."
 
-> — Zoltan Andrejkovics
+> — Kyle Vidrine
 
 <!-- QUOTE_END -->
 
