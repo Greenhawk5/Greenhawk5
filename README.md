@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "If you see a shot, shoot."
+> "Dream again, think again, and live again."
 
 > — Kyle Vidrine
 
