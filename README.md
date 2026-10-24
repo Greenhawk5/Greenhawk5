@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Dream again, think again, and live again."
+> "You can either complain about it or grind, I choose to grind."
 
 > — Kyle Vidrine
 
