@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "You can either complain about it or grind, I choose to grind."
+> "If you're going to be fighting anyway, why not fight to win and not just to survive."
 
 > — Kyle Vidrine
 
