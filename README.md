@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "If you're going to be fighting anyway, why not fight to win and not just to survive."
+> "Live with purpose."
 
-> — Kyle Vidrine
+> — Chioma Nkemdilim
 
 <!-- QUOTE_END -->
 
