@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Remember, It doesn't matter what you can do, what really matters is what you will do."
+> "A rainbow is not afraid of showing its true colors because it knows it is beautiful inside out."
 
-> — Mestar Digital
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
