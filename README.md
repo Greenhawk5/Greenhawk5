@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "A rainbow is not afraid of showing its true colors because it knows it is beautiful inside out."
+> "The richest person in the cemetery is the one who left behind the most happy memories."
 
 > — Matshona Dhliwayo
 
