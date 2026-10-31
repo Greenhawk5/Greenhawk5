@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The richest person in the cemetery is the one who left behind the most happy memories."
+> "If stars avoided the dark, they would not be visible at night."
 
 > — Matshona Dhliwayo
 
