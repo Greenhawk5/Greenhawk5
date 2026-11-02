@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Because no one is walking in your shoes, only you feel the sores on your feet."
+> "Hard work beats talent, when talent doesn’t work hard"
 
-> — Matshona Dhliwayo
+> — Kandarp Gandhi
 
 <!-- QUOTE_END -->
 
