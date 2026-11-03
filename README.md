@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Hard work beats talent, when talent doesn’t work hard"
+> "When time is not in your favor, be in favor of time"
 
 > — Kandarp Gandhi
 
