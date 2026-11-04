@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "When time is not in your favor, be in favor of time"
+> "At what point does "one day" become today?"
 
-> — Kandarp Gandhi
+> — Jennifer Ho-Dougatz
 
 <!-- QUOTE_END -->
 
