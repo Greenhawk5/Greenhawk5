@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "At what point does "one day" become today?"
+> "When you put the hard work in... reward will come out."
 
-> — Jennifer Ho-Dougatz
+> — Johnnie Dent Jr.
 
 <!-- QUOTE_END -->
 
