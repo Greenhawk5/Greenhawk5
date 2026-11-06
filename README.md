@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "When you put the hard work in... reward will come out."
+> "The beauty of life lies in its Uncertainty."
 
-> — Johnnie Dent Jr.
+> — eeeklavya
 
 <!-- QUOTE_END -->
 
