@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The beauty of life lies in its Uncertainty."
+> "You don’t have to swim when you know how to walk on water."
 
-> — eeeklavya
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
