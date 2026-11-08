@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "You don’t have to swim when you know how to walk on water."
+> "Love didn't make you weak, it made you stronger."
 
-> — Matshona Dhliwayo
+> — Cassandra Clare
 
 <!-- QUOTE_END -->
 
