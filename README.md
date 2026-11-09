@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Love didn't make you weak, it made you stronger."
+> "If I stress about a goal, I won't remember to find the way to get there."
 
-> — Cassandra Clare
+> — Zoltan Andrejkovics
 
 <!-- QUOTE_END -->
 
