@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "If I stress about a goal, I won't remember to find the way to get there."
+> "First keep the peace within yourself, then you can also bring peace to others."
 
-> — Zoltan Andrejkovics
+> — Thomas Kempis
 
 <!-- QUOTE_END -->
 
