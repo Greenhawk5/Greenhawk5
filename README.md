@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "First keep the peace within yourself, then you can also bring peace to others."
+> "The one who truly sacrifices the most is usually the one who talks about it the least"
 
-> — Thomas Kempis
+> — Todd Stocker
 
 <!-- QUOTE_END -->
 
