@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "The one who truly sacrifices the most is usually the one who talks about it the least"
+> "We often build our lives in a way that shuts out freedom."
 
-> — Todd Stocker
+> — Beth Kempton
 
 <!-- QUOTE_END -->
 
