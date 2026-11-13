@@ -205,7 +205,7 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "We often build our lives in a way that shuts out freedom."
+> "Freedom is found within."
 
 > — Beth Kempton
 
