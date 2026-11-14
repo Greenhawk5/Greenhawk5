@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Freedom is found within."
+> "There is joy in every circumstance."
 
-> — Beth Kempton
+> — WISDOM KWASHIE MENSAH (WKM)
 
 <!-- QUOTE_END -->
 
