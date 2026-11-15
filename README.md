@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "There is joy in every circumstance."
+> "A flower always turns its face to light"
 
-> — WISDOM KWASHIE MENSAH (WKM)
+> — be likewise.
 
 <!-- QUOTE_END -->
 
