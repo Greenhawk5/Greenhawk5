@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "A flower always turns its face to light"
+> "A rose does not need to boast of what the whole world already knows"
 
-> — be likewise.
+> — its beauty.
 
 <!-- QUOTE_END -->
 
