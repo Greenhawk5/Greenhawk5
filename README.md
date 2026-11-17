@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "A rose does not need to boast of what the whole world already knows"
+> "You be good. That's your business. The rest, leave to God. That's his business."
 
-> — its beauty.
+> — Fakeer Ishavardas
 
 <!-- QUOTE_END -->
 
