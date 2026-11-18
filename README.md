@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "You be good. That's your business. The rest, leave to God. That's his business."
+> "Invest like a bull, sit like a bear and watch like an eagle. (mantra for long term investing)"
 
-> — Fakeer Ishavardas
+> — Vijay Kedia
 
 <!-- QUOTE_END -->
 
