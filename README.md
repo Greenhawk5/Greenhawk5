@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Invest like a bull, sit like a bear and watch like an eagle. (mantra for long term investing)"
+> "Never look back unless you are planning to go that way"
 
-> — Vijay Kedia
+> — Henry David Thoreau
 
 <!-- QUOTE_END -->
 
