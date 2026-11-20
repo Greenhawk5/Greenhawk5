@@ -205,9 +205,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Never look back unless you are planning to go that way"
+> "Don’t always trust what you see. In a bull market even a duck looks like a swan."
 
-> — Henry David Thoreau
+> — Vijay Kedia
 
 <!-- QUOTE_END -->
 
