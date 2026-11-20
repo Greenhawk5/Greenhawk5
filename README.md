@@ -107,88 +107,124 @@ Hugging Face
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-
-<td align="center" width="50%">
-
-<a href="https://github.com/Greenhawk5/GreenHawk-AI">
-<img src="https://raw.githubusercontent.com/Greenhawk5/GreenHawk-AI/main/frontend/public/assets/logo/banner.png"
-width="100%"
-height="auto"/>
-</a>
-
-<h3>🎨 GreenHawk AI</h3>
-
-<p>
-AI-powered platform for colorizing black and white images using Deep Learning models.
-</p>
-
-<p>
-🐍 Python • 🧠 Deep Learning • 👁️ Computer Vision • 🤗 Hugging Face
-</p>
-
-<a href="https://github.com/Greenhawk5/GreenHawk-AI">
-Repository →
-</a>
-
-</td>
-
-
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
 
 <a href="https://github.com/Greenhawk5/HawkBucks-Web">
-<img src="https://raw.githubusercontent.com/Greenhawk5/HawkBucks-Web/main/docs/screenshots/hawkbucks-header.png"
-width="100%"
-height="auto"/>
+  <img src="https://raw.githubusercontent.com/Greenhawk5/HawkBucks-Web/main/docs/screenshots/hawkbucks-header.png" width="100%" alt="HawkBucks — Fortnite V-Bucks Mission Tracker" />
 </a>
 
-<h3>🎮 HawkBucks</h3>
-
-<p>
-A community tool that automatically tracks Fortnite Save The World V-Bucks missions.
-</p>
-
-<p>
-⚡ TypeScript • 🌐 Web Development • ⚙️ Automation
-</p>
-
-<a href="https://github.com/Greenhawk5/HawkBucks-Web">
-Repository →
-</a>
+<h3>🎮 <a href="https://github.com/Greenhawk5/HawkBucks-Web">HawkBucks</a></h3>
 
 </td>
+<td width="50%" align="center" valign="top">
 
+<a href="https://github.com/Greenhawk5/AliFaniani-Portfolio">
+  <img src="https://raw.githubusercontent.com/Greenhawk5/AliFaniani-Portfolio/main/docs/profile/banner.webp" width="100%" alt="Ali Faniani — Developer Portfolio" />
+</a>
+
+<h3>🌐 <a href="https://github.com/Greenhawk5/AliFaniani-Portfolio">Ali Faniani — Portfolio</a></h3>
+
+</td>
 </tr>
-
 <tr>
+<td width="50%" align="center" valign="bottom">
 
-<td align="center" width="50%">
-
-<a href="https://github.com/Greenhawk5/HawkBucks-Bot">
-<img src="https://github.com/Greenhawk5/HawkBucks-Bot/blob/main/assets/banner.png"
-width="100%"
-height="auto"/>
-</a>
-
-<h3>🤖 HawkBucks Bot</h3>
+<p>A community-driven tracker that automatically finds Fortnite: Save the World V-Bucks missions and presents their rewards, zones, and Power Levels.</p>
 
 <p>
-A standalone Telegram bot that provides Fortnite Save The World V-Bucks mission information.
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
 <p>
-🐍 Python • 🤖 Telegram Bot • ⚙️ Automation
+    <a href="https://hawkbucks.com">Live Website ↗</a> ·
+  <a href="https://github.com/Greenhawk5/HawkBucks-Web">Repository ↗</a>
 </p>
-
-<a href="https://github.com/Greenhawk5/HawkBucks-Bot">
-Repository →
-</a>
 
 </td>
+<td width="50%" align="center" valign="bottom">
 
+<p>My personal developer portfolio: an SEO-first web experience paired with an interactive 3D developer room.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+</p>
+
+<p>
+  <a href="https://alifaniani.ir">Live Website ↗</a> ·
+  <a href="https://github.com/Greenhawk5/AliFaniani-Portfolio">Repository ↗</a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/Greenhawk5/Buckshot-Tracker">
+  <img src="https://raw.githubusercontent.com/Greenhawk5/Buckshot-Tracker/main/docs/photo/GitHub%20Banner.png" width="100%" alt="Buckshot Tracker — Telegram Mini App" />
+</a>
+
+<h3>🎯 <a href="https://github.com/Greenhawk5/Buckshot-Tracker">Buckshot Tracker</a></h3>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/Greenhawk5/HAWKLYX">
+  <img src="https://raw.githubusercontent.com/Greenhawk5/HAWKLYX/main/doc/banner.png" width="100%" alt="HAWKLYX — Brent Crude Monitor" />
+</a>
+
+<h3>📈 <a href="https://github.com/Greenhawk5/HAWKLYX">HAWKLYX</a></h3>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="bottom">
+
+<p>A tactical companion for Buckshot Roulette, tracking live and blank shells, calculating real-time probabilities, and maintaining shot history inside Telegram.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+</p>
+
+<p>
+  <a href="t.me/BuckshotTrackerBot/tracker">Live App ↗</a> ·
+  <a href="https://github.com/Greenhawk5/Buckshot-Tracker">Repository ↗</a>
+</p>
+
+</td>
+<td width="50%" align="center" valign="bottom">
+
+<p>An Android Brent crude oil monitor featuring interactive market charts, market insights, home-screen widgets, and a Cloudflare-powered backend.</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+<p>
+  <a href="http://cafebazaar.ir/app/?id=ir.alifaniani.hawklyx&ref=share">Live App ↗</a> ·
+  <a href="https://github.com/Greenhawk5/HAWKLYX">Repository ↗</a>
+</p>
+
+</td>
 </tr>
 </table>
+
+</div>
+
+
+---
 
 ## 🧠 Other AI Experiments
 
@@ -215,18 +251,34 @@ Exploring:
 
 ## 📫 Get in Touch
 
-<p align="left">
-  <a href="mailto:Ali.faniani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;<a href="https://www.linkedin.com/in/ali-faniani">
-    <img src="https://img.shields.io/badge/LinkedIn-Ali%20Faniani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;<a href="https://github.com/Greenhawk5">
-    <img src="https://img.shields.io/badge/GitHub-Ali%20Faniani-181717?style=for-the-badge&logo=github"/>
-  </a>&nbsp;<a href="https://t.me/Greenhawk5">
-    <img src="https://img.shields.io/badge/Telegram-@Greenhawk5-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<div align="left">
+
+<p>
+  <a href="https://alifaniani.ir">
+    <img src="https://img.shields.io/badge/Portfolio-website-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Portfolio" />
   </a>
 </p>
 
+<p>
+  <a href="https://t.me/Greenhawk5">
+    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="mailto:Ali.faniani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ali-faniani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Greenhawk5">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
+<br />
 
 ⭐ Feel free to explore my repositories and connect with me!
+
+</div>
