@@ -241,9 +241,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Setting goals is the first step in turning the invisible into the visible."
+> "Investing is like Yoga. Body, mind and soul have to be aligned."
 
-> — Tony Robbins
+> — Vijay Kedia
 
 <!-- QUOTE_END -->
 
