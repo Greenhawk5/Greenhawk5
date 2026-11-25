@@ -241,9 +241,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Chase the story behind the stock, not the money on the table. Money will make you rich, but the story will make you wealthy."
+> "Rainbows earn their brightest colors in the storm."
 
-> — Vijay Kedia
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
