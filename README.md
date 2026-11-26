@@ -241,9 +241,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Rainbows earn their brightest colors in the storm."
+> "Better to lose money in a good company rather than making money in a bad one."
 
-> — Matshona Dhliwayo
+> — Vijay Kedia
 
 <!-- QUOTE_END -->
 
