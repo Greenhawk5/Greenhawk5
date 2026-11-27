@@ -241,9 +241,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "Better to lose money in a good company rather than making money in a bad one."
+> "It is not the size of a seed, but the size of what rises from it."
 
-> — Vijay Kedia
+> — Matshona Dhliwayo
 
 <!-- QUOTE_END -->
 
