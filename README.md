@@ -241,9 +241,9 @@ Exploring:
 
 <!-- QUOTE_START -->
 
-> "It is not the size of a seed, but the size of what rises from it."
+> "To wake up every day with a whisper of a dream and then put pen to paper to make it a reality"
 
-> — Matshona Dhliwayo
+> — Samuel Colbran
 
 <!-- QUOTE_END -->
 
